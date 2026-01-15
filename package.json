@@ -1,0 +1,19 @@
+{
+  "name": "guvi_shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jovanni099/Guvi_Shop.git"
+  },
+  "author": "Jovanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jovanni099/Guvi_Shop/issues"
+  },
+  "homepage": "https://github.com/Jovanni099/Guvi_Shop#readme",
+  "description": ""
+}
