@@ -1,0 +1,24 @@
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+
+# Windows shortcuts
+*.lnk
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Temp files
+*.tmp
+*.temp
+*.bak
