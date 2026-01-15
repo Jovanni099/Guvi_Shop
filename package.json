@@ -15,5 +15,8 @@
     "url": "https://github.com/Jovanni099/Guvi_Shop/issues"
   },
   "homepage": "https://github.com/Jovanni099/Guvi_Shop#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
