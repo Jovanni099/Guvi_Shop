@@ -17,7 +17,8 @@ app.use(express.json())
 
 
 app.listen(4445, err => {
-    if(err){
+    
+    if (err) {
         console.log(err);
     }
     console.log('Server OK');
