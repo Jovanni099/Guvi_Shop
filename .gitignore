@@ -74,3 +74,5 @@ coverage/
 .idea/
 .DS_Store
 Thumbs.db
+data.txt
+test.js
